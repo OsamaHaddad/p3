@@ -41,6 +41,15 @@ var mm_timer3;     //mmnew3
                 }
   };
 
+  function blaa(event) {
+    if ( document.getElementById("c3").innerHTML=="a" )
+    {
+      jump();
+      gnew();
+      sscore();
+    }
+  };
+
   function gnew() {
 
                 var cc8=eval(document.getElementById("c4").innerHTML);
