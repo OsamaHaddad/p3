@@ -1,5 +1,5 @@
 .c{
-  visibility: hidden;
+  /*visibility: hidden;*/
   width: 20px;
   height: 20px;
   position: absolute;
@@ -33,7 +33,7 @@
   margin-top: 390px;
 }
 .l{
-  visibility: hidden;
+  /*visibility: hidden;*/
   padding-right: 5px;
   width: 200px;
   height: 20px;
